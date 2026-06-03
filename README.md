@@ -208,14 +208,11 @@ Open to:
 # GitHub Stats
 
 <p align="center">
-
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=joel8779&show_icons=true&hide_border=true"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joel8779&show_icons=true&theme=transparent&hide_border=true"
 />
-
 </p>
-
 ---
 
 # Connect
