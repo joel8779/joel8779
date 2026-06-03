@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,185FA5&height=120&section=header&text=&fontSize=0" width="100%"/>
 
-# Alluri Jeswanth (Joel)
+# Alluri Jeswanth Joel
 
 **Backend & AI Systems Engineer**
 
