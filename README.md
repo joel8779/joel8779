@@ -53,5 +53,5 @@ Early-Career Software Engineer specialized in backend systems, AI orchestration,
 ## 🤝 Connect
 
 *   **Email**: [jeswanth22bcs211@iiitkottayam.ac.in](mailto:jeswanth22bcs211@iiitkottayam.ac.in)
-*   **LinkedIn**: [linkedin.com/in/jeswanthjoel](https://www.linkedin.com/in/jeswanthjoel)
+*   **LinkedIn**: [linkedin.com/in/jeswanthjoelalluri](https://www.linkedin.com/in/jeswanthjoelalluri)
 *   **GitHub**: [github.com/joel8779](https://github.com/joel8779)
