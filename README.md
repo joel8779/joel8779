@@ -1,57 +1,140 @@
-# Hi, I'm Jeswanth Joel 👋
+<div align="center">
 
-Early-Career Software Engineer specialized in backend systems, AI orchestration, and cloud integrations. Graduate of the **Indian Institute of Information Technology (IIIT) Kottayam** (May 2026).
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56,185FA5&height=120&section=header&text=&fontSize=0" width="100%"/>
 
----
+# Alluri Jeswanth (Joel)
 
-## ⚡ Current Focus
+**Backend & AI Systems Engineer**
 
-*   Designing asynchronous pipelines and multi-tenant RAG architectures.
-*   Building low-latency document parsers and candidate intelligence platforms.
-*   Implementing stateless token security rotations and auditing patterns.
+Building systems that reason over data — RAG pipelines, production APIs, and AI-native tooling.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-04342C?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-ten-green-65.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-185FA5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alluri-jeswanth)
+[![Email](https://img.shields.io/badge/Email-993C1D?style=flat&logo=gmail&logoColor=white)](mailto:allurijeswanth@gmail.com)
 
-## 🛠️ Tech Stack
-
-*   **Languages**: Java, Python, C/C++, TypeScript, SQL (PostgreSQL, MySQL), JavaScript, R
-*   **Web & Frameworks**: Spring Boot, FastAPI, Next.js, React, Node.js, Express.js, Flask
-*   **Databases & Vectors**: PostgreSQL, MongoDB Atlas, Redis, Pinecone, Qdrant, Supabase
-*   **Libraries & Tools**: LangChain, Celery, MLflow, Docker, GitHub Actions, Pandas, NumPy, Scikit-learn, Vercel, Railway
+</div>
 
 ---
 
-## 🏆 Featured Projects
+## What I build
 
-### 1. [Simplify AI](https://github.com/joel8779/simplify-ai) 
-*   **Description**: Decoupled SaaS RAG platform for secure document retrieval and conversational QA.
-*   **Tech Stack**: Next.js 15, FastAPI, Supabase, MongoDB Atlas, Pinecone, Google Gemini
-*   **Links**: [GitHub Repository](https://github.com/joel8779/simplify-ai) | [Live Production Demo](https://simplify-ai-lilac.vercel.app/)
+I work at the intersection of backend systems and applied AI — specifically around **retrieval-augmented generation**, **semantic search**, and **production-grade API design**.
 
-### 2. [MLOps AI](https://github.com/joel8779/mlops-ai)
-*   **Description**: Asynchronous AI candidate parsing, semantic search, and candidate scoring platform.
-*   **Tech Stack**: FastAPI, Celery, Redis, Qdrant, PostgreSQL, MLflow, Google Gemini, Next.js
-*   **Links**: [GitHub Repository](https://github.com/joel8779/mlops-ai)
-
-### 3. [TaskFlow API](https://github.com/joel8779/taskflow-api)
-*   **Description**: REST API for operational task management showcasing stateless JWT and dynamic querying.
-*   **Tech Stack**: Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
-*   **Links**: [GitHub Repository](https://github.com/joel8779/taskflow-api)
-
-### 4. [AI Document Preprocessor](https://github.com/joel8779/ai-document-preprocessor) 
-*   **Description**: Standalone desktop application converting office documents to LLM-ready Markdown locally.
-*   **Tech Stack**: Flet (Python/Flutter), PyMuPDF, MarkItDown, RapidOCR ONNX, tiktoken, PyInstaller
-*   **Links**: [GitHub Repository](https://github.com/joel8779/ai-document-preprocessor)
-
-### 5. [Interactive 3D Portfolio](https://github.com/joel8779/my-portfolio)
-*   **Description**: Cinematically sound-designed portfolio showcasing three-dimensional procedural graphics.
-*   **Tech Stack**: Next.js 15, React 19, Three.js, React Three Fiber, Framer Motion, Howler.js
-*   **Links**: [GitHub Repository](https://github.com/joel8779/my-portfolio) | [Live Production URL](https://my-portfolio-ten-green-65.vercel.app/)
+My focus: ship things that actually run, not demos that look good in a README.
 
 ---
 
-## 🤝 Connect
+## Featured Projects
 
-*   **Email**: [jeswanth22bcs211@iiitkottayam.ac.in](mailto:jeswanth22bcs211@iiitkottayam.ac.in)
-*   **LinkedIn**: [linkedin.com/in/jeswanthjoelalluri](https://www.linkedin.com/in/jeswanthjoelalluri)
-*   **GitHub**: [github.com/joel8779](https://github.com/joel8779)
+### [Simplify AI Live](https://simplify-ai-lilac.vercel.app/) — RAG Document Intelligence Platform
+
+> Upload any document. Ask questions. Get answers with citations.
+
+Built a full RAG pipeline with hybrid semantic + keyword search, multi-document scoping, and inline source citations. Not a wrapper — actual chunking, embedding, retrieval, and reranking logic.
+
+**Stack:** Next.js · Python · Vector DB · LLM APIs  
+**[Live Demo →](https://simplify-ai-lilac.vercel.app/)**
+
+---
+
+### MLOps AI Pipeline *(Active Development)*
+
+> Reproducible ML workflows from data ingestion to model deployment.
+
+Designing an end-to-end MLOps system covering experiment tracking, model versioning, and automated evaluation pipelines. Focus on operational reliability over research novelty.
+
+**Stack:** Python · FastAPI · Docker · MLflow  
+**Status:** In active development
+
+---
+
+### TaskFlow API
+
+> RESTful task management API with clean layered architecture.
+
+Demonstrates production API design patterns: proper error handling, request validation, pagination, and separation of concerns. Built to be readable and maintainable — not just functional.
+
+**Stack:** Java · Spring Boot · PostgreSQL  
+**[View Repo →](#)**
+
+---
+
+### AI Document Preprocessor
+
+> Intelligent preprocessing pipeline for LLM-ready document ingestion.
+
+Handles extraction, normalization, chunking strategy, and metadata tagging across PDF, DOCX, and Markdown sources. Designed as a standalone module that plugs into any RAG system.
+
+**Stack:** Python · LangChain · FastAPI
+
+---
+
+## Tech Stack
+
+**Languages**
+`Java` `Python` `TypeScript` `SQL`
+
+**Backend & APIs**
+`Spring Boot` `FastAPI` `REST` `PostgreSQL` `Redis`
+
+**AI / ML**
+`RAG` `LangChain` `Vector Databases` `Embedding Models` `LLM APIs`
+
+**Infrastructure**
+`Docker` `Git` `Linux` `Vercel` `CI/CD`
+
+**Frontend (when needed)**
+`Next.js` `React` `Tailwind CSS`
+
+---
+
+## Currently Learning
+
+- **MLOps** — model lifecycle management, drift detection, evaluation pipelines
+- **Distributed systems** — designing for fault tolerance and horizontal scale
+- **System design** — practicing real interview-level architectural reasoning
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allurijeswanth&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allurijeswanth&layout=compact&theme=default&hide_border=true&langs_count=6)
+
+</div>
+
+---
+
+## Open to Opportunities
+
+I'm actively looking for roles starting **mid-2026** in:
+
+- **Software Engineer** — full-stack or backend-focused
+- **Backend Engineer** — API design, service architecture, databases
+- **Java Full Stack Engineer** — Spring Boot + modern frontend
+- **AI/ML Application Engineer** — RAG, LLM integrations, applied AI systems
+
+I'm based in India and open to both **remote** and **on-site** positions.
+
+If you're building something real and need someone who thinks in systems — let's talk.
+
+---
+
+## Connect
+
+- **Portfolio:** [allurijeswanth.vercel.app](https://my-portfolio-ten-green-65.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/alluri-jeswanth](https://linkedin.com/in/jeswanthjoelalluri)
+- **Email:** jeswanthjoel8779@gmail.com
+
+---
+
+<div align="center">
+
+*IIIT Kottayam · B.Tech CSE · 2026*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=185FA5,0F6E56&height=80&section=footer" width="100%"/>
+
+</div>
