@@ -211,7 +211,7 @@ Open to:
 
 <img
 height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=joel8779&show_icons=true&hide_border=true"
 />
 
 </p>
