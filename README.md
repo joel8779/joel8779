@@ -23,7 +23,7 @@ Early-Career Software Engineer specialized in backend systems, AI orchestration,
 
 ## 🏆 Featured Projects
 
-### 1. [Simplify AI](https://github.com/joel8779/simplify-ai) (saas-rag)
+### 1. [Simplify AI](https://github.com/joel8779/simplify-ai) 
 *   **Description**: Decoupled SaaS RAG platform for secure document retrieval and conversational QA.
 *   **Tech Stack**: Next.js 15, FastAPI, Supabase, MongoDB Atlas, Pinecone, Google Gemini
 *   **Links**: [GitHub Repository](https://github.com/joel8779/simplify-ai) | [Live Production Demo](https://simplify-ai-lilac.vercel.app/)
@@ -38,7 +38,7 @@ Early-Career Software Engineer specialized in backend systems, AI orchestration,
 *   **Tech Stack**: Java 17, Spring Boot 3, Spring Security, JWT, PostgreSQL, Docker, GitHub Actions
 *   **Links**: [GitHub Repository](https://github.com/joel8779/taskflow-api)
 
-### 4. [AI Document Preprocessor](https://github.com/joel8779/ai-document-preprocessor) (markdown)
+### 4. [AI Document Preprocessor](https://github.com/joel8779/ai-document-preprocessor) 
 *   **Description**: Standalone desktop application converting office documents to LLM-ready Markdown locally.
 *   **Tech Stack**: Flet (Python/Flutter), PyMuPDF, MarkItDown, RapidOCR ONNX, tiktoken, PyInstaller
 *   **Links**: [GitHub Repository](https://github.com/joel8779/ai-document-preprocessor)
