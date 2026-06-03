@@ -96,18 +96,6 @@ Handles extraction, normalization, chunking strategy, and metadata tagging acros
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allurijeswanth&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allurijeswanth&layout=compact&theme=default&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## Open to Opportunities
 
 I'm actively looking for roles starting **mid-2026** in:
