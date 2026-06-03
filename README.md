@@ -203,18 +203,6 @@ Open to:
 ✔ Hybrid
 ✔ On-site
 
----
-
-# GitHub Stats
-
-<p align="center">
-<img
-height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=joel8779&show_icons=true&theme=transparent&hide_border=true"
-/>
-</p>
----
-
 # Connect
 
 Portfolio
