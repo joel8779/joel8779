@@ -34,7 +34,7 @@ I care about reliability, observability, and building systems that remain mainta
 
 # Featured Projects
 
-## Simplify AI Live — RAG Document Intelligence Platform
+## Simplify AI Live — Citation-Enabled RAG Platform
 
 > Upload → Retrieve → Reason → Answer
 
@@ -56,7 +56,7 @@ Built an end-to-end document intelligence platform supporting contextual retriev
 
 ---
 
-## MLOps AI Pipeline *(Building)*
+## Neural OPS - Enterprise AI Hiring & Candidate Intelligence Platform
 
 > Reproducible ML workflows from training to deployment.
 
